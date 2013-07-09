@@ -1,0 +1,13 @@
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\bin\Debug\AsyncPCL.Droid.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\bin\Debug\AsyncPCL.Droid.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\bin\Debug\AsyncPCL.Droid.dll.mdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\bin\Debug\AsyncPCL.Droid.apk
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\bin\Debug\AsyncPCL.Droid-Signed.apk
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\AsyncPCL.Droid.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\AsyncPCL.Droid.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\android\bin\AsyncPCL.Droid.apk
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\res\layout\main.xml
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\res\values\strings.xml
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\res\drawable\icon.png
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\R.cs.flag
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Droid\obj\Debug\uploadflags.txt

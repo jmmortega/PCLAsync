@@ -1,0 +1,5 @@
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Core\bin\Debug\AsyncPCL.Core.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Core\bin\Debug\AsyncPCL.Core.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Core\obj\Debug\AsyncPCL.Core.csprojResolveAssemblyReference.cache
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Core\obj\Debug\AsyncPCL.Core.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Core\obj\Debug\AsyncPCL.Core.pdb

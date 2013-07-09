@@ -1,0 +1,5 @@
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Touch\bin\iPhone\Debug\AsyncPCL.Touch.exe
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Touch\bin\iPhone\Debug\AsyncPCL.Touch.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Touch\obj\iPhone\Debug\AsyncPCL.Touch.csprojResolveAssemblyReference.cache
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Touch\obj\iPhone\Debug\AsyncPCL.Touch.exe
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.Touch\obj\iPhone\Debug\AsyncPCL.Touch.pdb

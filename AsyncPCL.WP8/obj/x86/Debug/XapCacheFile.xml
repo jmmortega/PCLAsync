@@ -1,0 +1,12 @@
+﻿<xapCache source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Bin\x86\Debug\AsyncPCL.WP8_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="09/07/2013 10:23:45">
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\obj\x86\Debug\AsyncPCL.WP8.dll" archivePath="AsyncPCL.WP8.dll" lastWriteTime="09/07/2013 10:23:42" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="09/07/2013 10:23:43" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="09/07/2013 10:23:29" />
+  <file source="K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP8\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="09/07/2013 10:23:45" />
+</xapCache>

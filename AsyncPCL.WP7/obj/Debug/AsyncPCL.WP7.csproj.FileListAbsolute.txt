@@ -1,0 +1,13 @@
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\ApplicationIcon.png
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\Background.png
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\AsyncPCL.WP7.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\AsyncPCL.WP7.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\AppManifest.xaml
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\Bin\Debug\AsyncPCL.WP7.xap
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\AsyncPCL.WP7.csprojResolveAssemblyReference.cache
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\App.g.cs
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\MainPage.g.cs
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\AsyncPCL.WP7.g.resources
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\AsyncPCL.WP7.dll
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\AsyncPCL.WP7.pdb
+K:\Projects\Samples\AsyncPCLAndMono\AsyncPCLAndMono\AsyncPCL.WP7\obj\Debug\XapCacheFile.xml
